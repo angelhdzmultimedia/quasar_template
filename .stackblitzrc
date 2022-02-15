@@ -1,0 +1,3 @@
+{
+  "startCommand": "npx quasar dev"
+}
